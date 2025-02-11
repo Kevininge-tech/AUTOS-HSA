@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(page_title="Registro de Autos", page_icon="🚗", layout="wide")
 
 # Cargar el archivo
-file_path = r"C:\\Users\\mateo\\Downloads\\AUTOS\\REGISTRO DE AUTOS.xlsx"
+file_path = "REGISTRO DE AUTOS.xlsx"
 xls = pd.ExcelFile(file_path)
 
 # Estilos CSS
