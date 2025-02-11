@@ -228,7 +228,7 @@ else:
 df["ENLACE"] = df["ENLACE"].apply(lambda val: f'<a href="{val}" target="_blank" style="color: #1E88E5; text-decoration: none;">Ver Documento</a>' if pd.notnull(val) and val != "" else '')
 
 # Interfaz con Streamlit
-st.markdown(f"<h1 class='stTitle'>Registro de Autos {sheet_name}</h1>", unsafe_allow_html=True)
+st.markdown(f"<h1 class='stTitle'>REGISTRO DE {sheet_name.upper()}</h1>", unsafe_allow_html=True)
 
 # Contenedor de filtros con diseño
 with st.sidebar:
