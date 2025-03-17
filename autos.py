@@ -207,7 +207,18 @@ enlaces_2025 = [
 "https://drive.google.com/file/d/1ECqW2f4PGSzSWSsUPVLHQSSruXlP1L0z/view?usp=drive_link",
 "https://drive.google.com/file/d/1M1sYVYawUzO7k1dJu7RIs3ylSjGY3j_O/view?usp=drive_link",
 "https://drive.google.com/file/d/1S1ZEYAwMGl6tNPmb3-SefRmSe8hyjstJ/view?usp=drive_link",
-"https://drive.google.com/file/d/1bPUTULi37avTySwBESlAdf5MeNYQZgOh/view?usp=drive_link"
+"https://drive.google.com/file/d/1bPUTULi37avTySwBESlAdf5MeNYQZgOh/view?usp=drive_link",
+"https://drive.google.com/file/d/1nstIQPA5GCfo6ACnXMGzdFwR2eyG4HLI/view?usp=drive_link",
+"https://drive.google.com/file/d/1DbU_CUAtEO1YhOlSmisMfZfMB-inJrNX/view?usp=drive_link",
+"https://drive.google.com/file/d/16KtT4nLr0B7GztMzXP5v8S2Eil_vmTzy/view?usp=drive_link",
+"https://drive.google.com/file/d/1nAGq_Tr499k_M-fkRb30pcn6-atBhwxf/view?usp=drive_link",
+"https://drive.google.com/file/d/1jP3pi-YZfSlmtfw7CMxT3lZWTpx9PxJ1/view?usp=drive_link",
+"https://drive.google.com/file/d/1_CwEu60skNLYzpE-f-Vcg610-uX8oUxC/view?usp=drive_link",
+"https://drive.google.com/file/d/1lJyzAJ4PHhP7bhjWZan3E7rWSbCt9qes/view?usp=drive_link",
+"https://drive.google.com/file/d/1HpBbpdwikmTsN2Fy83gO3eke3R7UwEOs/view?usp=drive_link",
+"https://drive.google.com/file/d/1gBXhPzne00VxAMWAdfYJHCLpURtyWMTM/view?usp=drive_link",
+"https://drive.google.com/file/d/1vbEfZ_m2Dx59XEiGcoXARkFcRQFJ5b4U/view?usp=drive_link",
+"https://drive.google.com/file/d/1aLvTNH6HLraQhFyyViwFM_LvGp4zH4Y2/view?usp=drive_link"
 
 ]
 # Asignar enlaces según la hoja seleccionada
